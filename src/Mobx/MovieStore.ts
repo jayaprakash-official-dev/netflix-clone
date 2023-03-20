@@ -13,7 +13,7 @@ class MovieStore {
       {
         headers: {
           'X-RapidAPI-Key':
-            'dbe6633289msha15abe1b8ac40f4p1be274jsndcf6ce00d975',
+            'API_KEY',
           'X-RapidAPI-Host': 'imdb-top-100-movies.p.rapidapi.com',
         },
       },
